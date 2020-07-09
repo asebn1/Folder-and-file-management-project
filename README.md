@@ -1,6 +1,9 @@
 # Folder-and-file-management-project
 Folder and file management project_SinglyLinkedList_(Using C++)
 
+SinglyLinkedList 를 사용하였다.
+
+
 	# ‘폴더 시스템’을 구현하는 것이다.
   
 	# 폴더에 기본적인 기능들을 추가한다. 
